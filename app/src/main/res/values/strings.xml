@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+
+
+    <string name="search_screen_enter_word">Enter a word</string>
+    <string name="search_screen_search_button">Search</string>
+    <string name="search_screen_pronunciations">Pronunciations</string>
+
+
+    <string name="search_screen_play">Play</string>
+    <string name="search_screen_pause">Pause</string>
+
+
+    <string name="error_message_not_found">word not found, please try with another one</string>
+    <string name="error_message_server">couldn\'t conntect to the server, please try again later</string>
+</resources>
